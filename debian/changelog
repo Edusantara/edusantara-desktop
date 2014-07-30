@@ -1,3 +1,10 @@
+edusantara-desktop (10.00.10+edusantara2) anambas; urgency=medium
+
+  * debian/control:
+    - Package: edusantara-desktop
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 30 Jul 2014 13:00:12 +0700
+
 edusantara-desktop (10.00.10+edusantara1) anambas; urgency=medium
 
   * New upstream release
