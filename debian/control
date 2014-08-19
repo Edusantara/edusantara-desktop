@@ -53,7 +53,7 @@ Description: The Edusantara Server Suite
 
 Package: edusantara-server
 Architecture: all
-Depends: mysql-server, mysql-client, phpmyadmin, postgresql, phppgadmin, sqlite3, nginx-full, apache2,  cacti, mrtg, squid3, bind9, postfix, cups, samba, ntfs-3g, ipcalc
+Depends: mysql-server, mysql-client, phpmyadmin, postgresql, phppgadmin, sqlite3, apache2,  cacti, mrtg, squid3, bind9, postfix, cups, samba, ntfs-3g, ipcalc, openssh-server
 Description: The Edusantara Server's Suite
  This package depends on all of the packages in the Edusantara Server Suite
  .

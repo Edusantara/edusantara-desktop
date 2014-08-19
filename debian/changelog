@@ -1,3 +1,10 @@
+edusantara-desktop (10.00.10+edusantara4) anambas; urgency=medium
+
+  * Remove nginx-full (edusantara-server)
+  * Add openssh-server (edusantara-server)
+
+ -- Rahman Yusri Aftian <aftian@localhost>  Tue, 19 Aug 2014 10:18:21 +0700
+
 edusantara-desktop (10.00.10+edusantara3) anambas; urgency=medium
 
   * Add Edusantara Server, Firmware 

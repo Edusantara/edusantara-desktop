@@ -28,7 +28,7 @@ Package: edusantara-firmware
 Architecture: all
 Depends: firmware-atheros, firmware-bnx2, firmware-bnx2x, firmware-brcm80211,  firmware-iwlwifi, firmware-libertas, firmware-linux-nonfree, firmware-linux, firmware-ralink, firmware-realtek
 Description: The Edusantara Firmware
- This package depends on all of the packages in the Edusantara Firmware headers desktop system
+ This package depends on all of the packages in the Edusantara Firmware  system
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
