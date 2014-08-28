@@ -1,3 +1,10 @@
+edusantara-desktop (10.00.10+edusantara6) anambas; urgency=low
+
+  * Debian/control
+    - Drop depends blankon-locales
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 28 Aug 2014 21:47:40 +0700
+
 edusantara-desktop (10.00.10+edusantara5) anambas; urgency=low
 
   * Debian/control
